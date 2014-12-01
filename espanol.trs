@@ -1,0 +1,522 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+Gehe zu %s
+Ir a %s
+Schau an %s
+Mirar %s
+Rede mit %s
+Hablar con %s
+Gib !s an %s
+Dar !s a %s
+Gib %s
+Dar %s
+Nimm %s
+Recoger %s
+Benutze !s mit %s
+Usar !s con %s
+Benutze %s
+Usar %s
+Öffne %s
+Abrir %s
+Schließe %s
+Cerrar %s
+Drücke %s
+Empujar %s
+Ziehe %s
+Tirar %s
+Wechsle zu %s
+Cambiar a %s
+!s
+!s
+%s
+%s
+%d. 
+%d. 
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+SsNn
+a_button_give 5 802 803 Dd
+a_button_give 6 680 681 Zz
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 682 683 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 688 689 Ee
+a_button_open 3 790 791 Aa
+a_button_open 8 692 693 Cc
+a_button_look_at 0 788 789 Qq
+a_button_look_at 0 676 677 Qq
+a_button_push 7 798 799 Xx
+a_button_push 4 684 685 Ss
+a_button_close 4 796 797 Ss
+a_button_close 7 686 687 Xx
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 3 678 679 Aa
+a_button_pull 6 792 793 Yy
+a_button_pull 5 690 691 Dd
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Das ist schon zu.
+
+Das ist schon offen.
+
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+%s%c
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+MMM_GO
+
+a_button_give
+
+a_button_pick_up
+
+a_button_use
+
+a_button_open
+
+a_button_look_at
+
+a_button_push
+
+a_button_close
+
+a_button_talk_to
+
+a_button_pull
+
+%s %s
+
+5
+
+2
+
+1
+
+3
+
+0
+
+7
+
+4
+
+8
+
+6
+
+42
+
+39
+
+38
+
+40
+
+37
+
+88
+
+41
+
+89
+
+43
+
+802
+
+800
+
+794
+
+790
+
+788
+
+798
+
+796
+
+804
+
+792
+
+119
+
+116
+
+91
+
+117
+
+90
+
+121
+
+118
+
+122
+
+120
+
+803
+
+801
+
+795
+
+791
+
+789
+
+799
+
+797
+
+805
+
+793
+
+Dd
+
+Ee
+
+Ww
+
+Aa
+
+Qq
+
+Xx
+
+Ss
+
+Cc
+
+Yy
+
+error: Talk view isn't assigned!
+
+%%%dc
+
+scrnshot.bmp
+
+Besser nicht.
+
+Tja, scheint nicht zu klappen.
+
+Toll.
+
+Da tut sich nichts.
+
+Da bewegt sich nichts.
+
+Es scheint nicht aufzugehen.
+
+Selbstgespräche zu führen kann Schizophrenie erzeugen. Also führe ich keine.
+
+Das klappt so nicht.
+
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+
+Wozu?
+
+Es bewegt sich nicht.
+
+Das lässt sich nicht öffnen.
+
+Das lässt sich nicht schließen.
+
+Das ist jemand anderes.
+
+Zu schwer.
+
+Das bringt nichts.
+
+Schließen? Gehts noch?
+
+Öffnen? Gehts noch?
+
+Benutzen? Gehts noch?
+
+Text
+
+Wie kann ich Ihnen dienen?
+
+Speichern
+
+Laden
+
+Spielen
+
+Beenden
+
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+
+Wählen Sie ein Spiel zum Laden
+
+Abbruch
+
+Name für das Spiel
+
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+Fernbedienung
+
+dummy
+
+No hotspot
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Start
+
+_tv_44_view_ 81
+
+Und natürlich Briefmarke nicht vergessen!
+
+Schalten sie auch Morgen wieder ein.
+
+Hotspot 1
+
+Hotspot 2
+
+[]~
+
+leeres-Starterpack]
+
+Rulaman (Original)
+
+]BETA-Tester]
+
+Rulaman
+
+]Graphiken]
+
+]Übersetzung für AGS 3.0]
+
+]AdventureGameStudio 3.0]
+
+Chris Jones
+
+]Credit-Modul:]
+
+SSH
+
+]Diese Episode:~
+
+<Autor>
+
+ [Idee:]
+
+] [zusätzliche Grafiken:]
+
+] [zusätzliches Skripting:]
+
+] [gewidmet:]
+
+allen Adventure-Freunden
+
+]~
+
