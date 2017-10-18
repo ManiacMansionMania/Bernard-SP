@@ -992,7 +992,7 @@
               </GUIButton>
               <GUIInventory>
                 <ItemWidth>40</ItemWidth>
-                <ItemHeight>22</ItemHeight>
+                <ItemHeight>24</ItemHeight>
                 <CharacterID>-1</CharacterID>
                 <Height>49</Height>
                 <Locked>False</Locked>
