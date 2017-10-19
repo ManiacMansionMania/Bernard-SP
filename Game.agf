@@ -3539,11 +3539,7 @@
                     <SubFolders />
                     <Sprites>
                       <Sprite Slot="364" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                      <Sprite Slot="123" Width="22" Height="76" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
-                        <Source>
-                          <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Speech\bb.bmp</FileName>
-                        </Source>
-                      </Sprite>
+                      <Sprite Slot="123" Width="22" Height="76" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                     </Sprites>
                   </SpriteFolder>
                 </SubFolders>
