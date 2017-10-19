@@ -5793,7 +5793,7 @@
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>256</Image>
-                    <Flipped>True</Flipped>
+                    <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>120</Sound>
                   </ViewFrame>
