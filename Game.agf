@@ -4878,7 +4878,7 @@
                   <ViewFrame>
                     <ID>1</ID>
                     <Image>337</Image>
-                    <Flipped>True</Flipped>
+                    <Flipped>False</Flipped>
                     <Delay>0</Delay>
                     <Sound>120</Sound>
                   </ViewFrame>
@@ -6551,8 +6551,8 @@
                     <ID>4</ID>
                     <Image>335</Image>
                     <Flipped>False</Flipped>
-                    <Delay>97</Delay>
-                    <Sound>0</Sound>
+                    <Delay>0</Delay>
+                    <Sound>120</Sound>
                   </ViewFrame>
                 </Frames>
               </Loop>
