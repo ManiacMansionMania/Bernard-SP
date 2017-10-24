@@ -3403,31 +3403,115 @@
                   <SpriteFolder Name="Talk">
                     <SubFolders />
                     <Sprites>
-                      <Sprite Slot="341" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                      <Sprite Slot="342" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                      <Sprite Slot="341" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Kevin\Downloads\dave_new\spr01175.bmp</FileName>
+                        </Source>
+                      </Sprite>
+                      <Sprite Slot="342" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                        <Source>
+                          <FileName>C:\Users\Kevin\Downloads\dave_new\spr01186.bmp</FileName>
+                        </Source>
+                      </Sprite>
                     </Sprites>
                   </SpriteFolder>
                 </SubFolders>
                 <Sprites>
-                  <Sprite Slot="321" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="322" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="323" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="324" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="325" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="312" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="313" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="314" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="315" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="316" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="317" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="318" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="319" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="320" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="336" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="337" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="338" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="339" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                  <Sprite Slot="340" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+                  <Sprite Slot="321" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01165.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="322" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01166.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="323" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01167.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="324" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01168.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="325" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01169.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="312" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01176.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="313" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01177.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="314" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01178.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="315" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01179.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="316" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01180.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="317" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01181.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="318" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01178.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="319" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01183.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="320" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01184.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="336" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01170.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="337" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01171.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="338" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01172.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="339" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01173.bmp</FileName>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="340" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Kevin\Downloads\dave_new\spr01174.bmp</FileName>
+                    </Source>
+                  </Sprite>
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Syd">
