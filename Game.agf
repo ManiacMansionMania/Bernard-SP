@@ -3407,13 +3407,6 @@
                       <Sprite Slot="342" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
                     </Sprites>
                   </SpriteFolder>
-                  <SpriteFolder Name="Special">
-                    <SubFolders />
-                    <Sprites>
-                      <Sprite Slot="1087" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                      <Sprite Slot="1088" Width="26" Height="75" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-                    </Sprites>
-                  </SpriteFolder>
                 </SubFolders>
                 <Sprites>
                   <Sprite Slot="321" Width="22" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
