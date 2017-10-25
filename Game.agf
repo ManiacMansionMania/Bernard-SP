@@ -3,11 +3,11 @@
 <AGSEditorDocument Version="3.0.3.2" VersionIndex="13" EditorVersion="3.4.0">
   <Game>
     <Settings>
-      <GameName>Bernard-Starterpack</GameName>
+      <GameName xml:space="preserve">Bernard-Starterpack Topless</GameName>
       <UniqueID>1661847</UniqueID>
       <GUIDAsString>{471d7f94-e201-4633-a301-43145ab9f822}</GUIDAsString>
       <ColorDepth>HighColor</ColorDepth>
-      <CustomResolution>320,200</CustomResolution>
+      <CustomResolution>320,180</CustomResolution>
       <GraphicsDriver>DX5</GraphicsDriver>
       <CompressSprites>False</CompressSprites>
       <SaveScreenshots>False</SaveScreenshots>
@@ -72,7 +72,7 @@
       <DeveloperURL />
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
-      <SaveGameFolderName>Bernard-Starterpack</SaveGameFolderName>
+      <SaveGameFolderName xml:space="preserve">Bernard-Starterpack Topless</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <AudioIndexer>122</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
@@ -708,10 +708,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>57</Height>
+              <Height>51</Height>
               <Width>320</Width>
               <Left>0</Left>
-              <Top>144</Top>
+              <Top>126</Top>
               <Clickable>True</Clickable>
               <Visibility>Normal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -729,7 +729,7 @@
                 <TextColor>8</TextColor>
                 <Font>0</Font>
                 <Text>Text</Text>
-                <Height>10</Height>
+                <Height>9</Height>
                 <Locked>False</Locked>
                 <Width>320</Width>
                 <Left>0</Left>
@@ -743,10 +743,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick>gMaingui_OnClick</OnClick>
-              <Height>57</Height>
+              <Height>51</Height>
               <Width>320</Width>
               <Left>0</Left>
-              <Top>143</Top>
+              <Top>127</Top>
               <Clickable>True</Clickable>
               <Visibility>Normal</Visibility>
               <PopupYPos>13</PopupYPos>
@@ -771,11 +771,11 @@
                 <MouseoverImage>2</MouseoverImage>
                 <Image>1</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>1</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gMainGive</Name>
@@ -792,11 +792,11 @@
                 <MouseoverImage>8</MouseoverImage>
                 <Image>7</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>64</Width>
                 <Left>41</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>gMainPickup</Name>
@@ -813,11 +813,11 @@
                 <MouseoverImage>14</MouseoverImage>
                 <Image>13</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>105</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>gMainUse</Name>
@@ -834,11 +834,11 @@
                 <MouseoverImage>4</MouseoverImage>
                 <Image>3</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>1</Left>
-                <Top>26</Top>
+                <Top>23</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>gMainOpen</Name>
@@ -855,11 +855,11 @@
                 <MouseoverImage>10</MouseoverImage>
                 <Image>9</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>64</Width>
                 <Left>41</Left>
-                <Top>26</Top>
+                <Top>23</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>gMainLookat</Name>
@@ -876,11 +876,11 @@
                 <MouseoverImage>28</MouseoverImage>
                 <Image>15</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>105</Left>
-                <Top>26</Top>
+                <Top>23</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>gMainPush</Name>
@@ -897,11 +897,11 @@
                 <MouseoverImage>6</MouseoverImage>
                 <Image>5</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>1</Left>
-                <Top>42</Top>
+                <Top>37</Top>
                 <ZOrder>6</ZOrder>
                 <ID>6</ID>
                 <Name>gMainClose</Name>
@@ -918,11 +918,11 @@
                 <MouseoverImage>12</MouseoverImage>
                 <Image>11</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>64</Width>
                 <Left>41</Left>
-                <Top>42</Top>
+                <Top>37</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
                 <Name>gMainTalkto</Name>
@@ -939,11 +939,11 @@
                 <MouseoverImage>30</MouseoverImage>
                 <Image>29</Image>
                 <Text />
-                <Height>14</Height>
+                <Height>12</Height>
                 <Locked>False</Locked>
                 <Width>40</Width>
                 <Left>105</Left>
-                <Top>42</Top>
+                <Top>37</Top>
                 <ZOrder>8</ZOrder>
                 <ID>8</ID>
                 <Name>gMainPull</Name>
@@ -960,11 +960,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>213</Image>
                 <Text />
-                <Height>23</Height>
+                <Height>20</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
                 <Left>146</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>9</ZOrder>
                 <ID>9</ID>
                 <Name>gMainInvUp</Name>
@@ -981,11 +981,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>214</Image>
                 <Text />
-                <Height>23</Height>
+                <Height>20</Height>
                 <Locked>False</Locked>
                 <Width>14</Width>
                 <Left>146</Left>
-                <Top>34</Top>
+                <Top>30</Top>
                 <ZOrder>10</ZOrder>
                 <ID>10</ID>
                 <Name>gMainInvDown</Name>
@@ -994,11 +994,11 @@
                 <ItemWidth>40</ItemWidth>
                 <ItemHeight>24</ItemHeight>
                 <CharacterID>-1</CharacterID>
-                <Height>49</Height>
+                <Height>44</Height>
                 <Locked>False</Locked>
                 <Width>165</Width>
                 <Left>162</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>13</ZOrder>
                 <ID>11</ID>
                 <Name>gMainInventory</Name>
@@ -1015,11 +1015,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
                 <Text />
-                <Height>24</Height>
+                <Height>21</Height>
                 <Locked>False</Locked>
                 <Width>30</Width>
                 <Left>290</Left>
-                <Top>10</Top>
+                <Top>9</Top>
                 <ZOrder>11</ZOrder>
                 <ID>12</ID>
                 <Name>cc1</Name>
@@ -1036,11 +1036,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
                 <Text />
-                <Height>24</Height>
+                <Height>21</Height>
                 <Locked>False</Locked>
                 <Width>30</Width>
                 <Left>290</Left>
-                <Top>35</Top>
+                <Top>31</Top>
                 <ZOrder>12</ZOrder>
                 <ID>13</ID>
                 <Name>cc2</Name>
@@ -1050,10 +1050,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>56</Height>
+              <Height>50</Height>
               <Width>320</Width>
               <Left>0</Left>
-              <Top>144</Top>
+              <Top>129</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1070,10 +1070,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>121</Height>
+              <Height>108</Height>
               <Width>281</Width>
               <Left>20</Left>
-              <Top>20</Top>
+              <Top>18</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1098,11 +1098,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>37</Top>
+                <Top>33</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gOptSave</Name>
@@ -1119,11 +1119,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>53</Top>
+                <Top>47</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>gOptLoad</Name>
@@ -1140,11 +1140,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>67</Top>
+                <Top>60</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>gOptPlay</Name>
@@ -1161,11 +1161,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>82</Top>
+                <Top>73</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>gOptExit</Name>
@@ -1175,11 +1175,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Wie kann ich Ihnen dienen?</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>190</Width>
                 <Left>5</Left>
-                <Top>2</Top>
+                <Top>1</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>gOptionsTitel</Name>
@@ -1189,11 +1189,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Speichern</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>39</Top>
+                <Top>35</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>gOptionsSave</Name>
@@ -1203,11 +1203,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Laden</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>55</Top>
+                <Top>49</Top>
                 <ZOrder>6</ZOrder>
                 <ID>6</ID>
                 <Name>gOptionsLoad</Name>
@@ -1217,11 +1217,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Spielen</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>69</Top>
+                <Top>62</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
                 <Name>gOptionsPlay</Name>
@@ -1231,11 +1231,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Beenden</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>84</Top>
+                <Top>75</Top>
                 <ZOrder>8</ZOrder>
                 <ID>8</ID>
                 <Name>gOptionsExit</Name>
@@ -1245,7 +1245,7 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>25</Height>
+              <Height>22</Height>
               <Width>100</Width>
               <Left>0</Left>
               <Top>0</Top>
@@ -1266,7 +1266,7 @@
                 <TextColor>15</TextColor>
                 <Font>1</Font>
                 <Text>@OVERHOTSPOT@</Text>
-                <Height>23</Height>
+                <Height>20</Height>
                 <Locked>False</Locked>
                 <Width>100</Width>
                 <Left>0</Left>
@@ -1280,10 +1280,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>15</Height>
+              <Height>13</Height>
               <Width>270</Width>
               <Left>25</Left>
-              <Top>94</Top>
+              <Top>84</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1301,11 +1301,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Pause.  Leertaste für weiter.</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
                 <Left>0</Left>
-                <Top>2</Top>
+                <Top>1</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gPausedText</Name>
@@ -1315,10 +1315,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>121</Height>
+              <Height>108</Height>
               <Width>281</Width>
               <Left>20</Left>
-              <Top>20</Top>
+              <Top>18</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1336,11 +1336,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Wählen Sie ein Spiel zum Laden</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>190</Width>
                 <Left>5</Left>
-                <Top>3</Top>
+                <Top>2</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gRestoreTitel</Name>
@@ -1355,11 +1355,11 @@
                 <SelectedBackgroundColor>64581</SelectedBackgroundColor>
                 <Font>0</Font>
                 <Translated>False</Translated>
-                <Height>97</Height>
+                <Height>87</Height>
                 <Locked>False</Locked>
                 <Width>173</Width>
                 <Left>8</Left>
-                <Top>15</Top>
+                <Top>13</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>lstRestore</Name>
@@ -1376,11 +1376,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>59</Top>
+                <Top>53</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>gRstCancel</Name>
@@ -1397,11 +1397,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>211</Image>
                 <Text />
-                <Height>48</Height>
+                <Height>43</Height>
                 <Locked>False</Locked>
                 <Width>17</Width>
                 <Left>186</Left>
-                <Top>17</Top>
+                <Top>15</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>gRstUp</Name>
@@ -1418,11 +1418,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>212</Image>
                 <Text />
-                <Height>46</Height>
+                <Height>41</Height>
                 <Locked>False</Locked>
                 <Width>17</Width>
                 <Left>186</Left>
-                <Top>67</Top>
+                <Top>60</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>gRstDown</Name>
@@ -1432,11 +1432,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Abbruch</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>61</Top>
+                <Top>54</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>gRestoreCancel</Name>
@@ -1446,10 +1446,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>121</Height>
+              <Height>108</Height>
               <Width>281</Width>
               <Left>20</Left>
-              <Top>20</Top>
+              <Top>18</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1467,11 +1467,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Name für das Spiel</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>190</Width>
                 <Left>5</Left>
-                <Top>3</Top>
+                <Top>2</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gSaveTitel</Name>
@@ -1486,11 +1486,11 @@
                 <SelectedBackgroundColor>64581</SelectedBackgroundColor>
                 <Font>0</Font>
                 <Translated>False</Translated>
-                <Height>97</Height>
+                <Height>87</Height>
                 <Locked>False</Locked>
                 <Width>173</Width>
                 <Left>9</Left>
-                <Top>15</Top>
+                <Top>13</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>lstSave</Name>
@@ -1507,11 +1507,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>52</Top>
+                <Top>46</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>gSaveSave</Name>
@@ -1528,11 +1528,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>209</Image>
                 <Text />
-                <Height>13</Height>
+                <Height>11</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>67</Top>
+                <Top>60</Top>
                 <ZOrder>3</ZOrder>
                 <ID>3</ID>
                 <Name>gSaveAbbruch</Name>
@@ -1549,11 +1549,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>211</Image>
                 <Text />
-                <Height>48</Height>
+                <Height>43</Height>
                 <Locked>False</Locked>
                 <Width>17</Width>
                 <Left>186</Left>
-                <Top>17</Top>
+                <Top>15</Top>
                 <ZOrder>4</ZOrder>
                 <ID>4</ID>
                 <Name>gSaveUp</Name>
@@ -1570,11 +1570,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>212</Image>
                 <Text />
-                <Height>46</Height>
+                <Height>41</Height>
                 <Locked>False</Locked>
                 <Width>17</Width>
                 <Left>186</Left>
-                <Top>67</Top>
+                <Top>60</Top>
                 <ZOrder>5</ZOrder>
                 <ID>5</ID>
                 <Name>gSaveDown</Name>
@@ -1584,11 +1584,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>OK</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>54</Top>
+                <Top>48</Top>
                 <ZOrder>6</ZOrder>
                 <ID>6</ID>
                 <Name>gSaveOK</Name>
@@ -1598,11 +1598,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text>Abbruch</Text>
-                <Height>2</Height>
+                <Height>1</Height>
                 <Locked>False</Locked>
                 <Width>61</Width>
                 <Left>212</Left>
-                <Top>69</Top>
+                <Top>62</Top>
                 <ZOrder>7</ZOrder>
                 <ID>7</ID>
                 <Name>gSaveCancel</Name>
@@ -1612,7 +1612,7 @@
           <GUIMain>
             <NormalGUI>
               <OnClick>gSavetextbox_OnClic</OnClick>
-              <Height>12</Height>
+              <Height>10</Height>
               <Width>170</Width>
               <Left>0</Left>
               <Top>0</Top>
@@ -1634,7 +1634,7 @@
                 <Font>0</Font>
                 <ShowBorder>False</ShowBorder>
                 <Text />
-                <Height>11</Height>
+                <Height>9</Height>
                 <Locked>False</Locked>
                 <Width>130</Width>
                 <Left>7</Left>
@@ -1648,11 +1648,11 @@
                 <TextColor>2423</TextColor>
                 <Font>0</Font>
                 <Text>99.</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>15</Width>
                 <Left>1</Left>
-                <Top>2</Top>
+                <Top>1</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>gSaveTextBoxlbl</Name>
@@ -1662,10 +1662,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>13</Height>
+              <Height>11</Height>
               <Width>270</Width>
               <Left>25</Left>
-              <Top>94</Top>
+              <Top>84</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1683,11 +1683,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Sind Sie sicher, dass Sie aufhören wollen? (J/N)</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
                 <Left>0</Left>
-                <Top>2</Top>
+                <Top>1</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gConfirmQuestion</Name>
@@ -1704,11 +1704,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
                 <Text />
-                <Height>12</Height>
+                <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>12</Width>
                 <Left>213</Left>
-                <Top>1</Top>
+                <Top>0</Top>
                 <ZOrder>1</ZOrder>
                 <ID>1</ID>
                 <Name>gConfirmYes</Name>
@@ -1725,11 +1725,11 @@
                 <MouseoverImage>0</MouseoverImage>
                 <Image>0</Image>
                 <Text />
-                <Height>12</Height>
+                <Height>10</Height>
                 <Locked>False</Locked>
                 <Width>12</Width>
                 <Left>226</Left>
-                <Top>1</Top>
+                <Top>0</Top>
                 <ZOrder>2</ZOrder>
                 <ID>2</ID>
                 <Name>gConfirmNo</Name>
@@ -1739,12 +1739,12 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>16</Height>
+              <Height>14</Height>
               <Width>320</Width>
               <Left>0</Left>
               <Top>0</Top>
               <Clickable>True</Clickable>
-              <Visibility>Normal</Visibility>
+              <Visibility>NormalButInitiallyOff</Visibility>
               <PopupYPos>0</PopupYPos>
               <ZOrder>10</ZOrder>
               <BorderColor>16</BorderColor>
@@ -1759,10 +1759,10 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>13</Height>
+              <Height>11</Height>
               <Width>270</Width>
               <Left>25</Left>
-              <Top>94</Top>
+              <Top>84</Top>
               <Clickable>True</Clickable>
               <Visibility>PopupModal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -1780,11 +1780,11 @@
                 <TextColor>1</TextColor>
                 <Font>0</Font>
                 <Text xml:space="preserve">Sind Sie sicher, das Sie neustarten wollen? (J/N)</Text>
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
                 <Left>0</Left>
-                <Top>2</Top>
+                <Top>1</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
                 <Name>gRestartQuestion</Name>
@@ -1794,7 +1794,7 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>10</Height>
+              <Height>9</Height>
               <Width>320</Width>
               <Left>0</Left>
               <Top>0</Top>
@@ -1815,7 +1815,7 @@
                 <TextColor>15</TextColor>
                 <Font>1</Font>
                 <Text />
-                <Height>9</Height>
+                <Height>8</Height>
                 <Locked>False</Locked>
                 <Width>320</Width>
                 <Left>4</Left>
