@@ -1779,7 +1779,7 @@
                 <TextAlignment>TopMiddle</TextAlignment>
                 <TextColor>1</TextColor>
                 <Font>0</Font>
-                <Text xml:space="preserve">Sind Sie sicher, das Sie neustarten wollen? (J/N)</Text>
+                <Text xml:space="preserve">Sind Sie sicher, dass Sie neustarten wollen? (J/N)</Text>
                 <Height>9</Height>
                 <Locked>False</Locked>
                 <Width>270</Width>
