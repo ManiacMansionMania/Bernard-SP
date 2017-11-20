@@ -1280,8 +1280,8 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>15</Height>
-              <Width>270</Width>
+              <Height>14</Height>
+              <Width>273</Width>
               <Left>25</Left>
               <Top>94</Top>
               <Clickable>True</Clickable>
@@ -1662,8 +1662,8 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>13</Height>
-              <Width>270</Width>
+              <Height>14</Height>
+              <Width>273</Width>
               <Left>25</Left>
               <Top>94</Top>
               <Clickable>True</Clickable>
@@ -1759,8 +1759,8 @@
           <GUIMain>
             <NormalGUI>
               <OnClick />
-              <Height>13</Height>
-              <Width>270</Width>
+              <Height>14</Height>
+              <Width>273</Width>
               <Left>25</Left>
               <Top>94</Top>
               <Clickable>True</Clickable>
@@ -1779,11 +1779,11 @@
                 <TextAlignment>TopMiddle</TextAlignment>
                 <TextColor>1</TextColor>
                 <Font>0</Font>
-                <Text xml:space="preserve">Sind Sie sicher, dass Sie neustarten wollen? (J/N)</Text>
+                <Text xml:space="preserve">Sind Sie sicher, dass Sie neu starten wollen? (J/N)</Text>
                 <Height>9</Height>
                 <Locked>False</Locked>
-                <Width>270</Width>
-                <Left>0</Left>
+                <Width>272</Width>
+                <Left>1</Left>
                 <Top>2</Top>
                 <ZOrder>0</ZOrder>
                 <ID>0</ID>
@@ -4322,7 +4322,7 @@
               <Sprite Slot="204" Width="14" Height="23" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="208" Width="281" Height="121" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="209" Width="61" Height="13" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="210" Width="270" Height="13" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
+              <Sprite Slot="210" Width="273" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="211" Width="17" Height="48" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="212" Width="17" Height="46" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="213" Width="14" Height="23" ColorDepth="16" Resolution="LowRes" AlphaChannel="False" />
