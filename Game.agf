@@ -4677,9 +4677,9 @@
               <SpriteFolder Name="Keller">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="472" Width="46" Height="77" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
+                  <Sprite Slot="472" Width="44" Height="76" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Kevin\Pictures\assets\cellar_door.png</FileName>
                     </Source>
                   </Sprite>
                   <Sprite Slot="473" Width="24" Height="108" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
