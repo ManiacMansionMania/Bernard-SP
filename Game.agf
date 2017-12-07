@@ -4637,11 +4637,6 @@
                       <FileName>C:\0.bmp</FileName>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="464" Width="13" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\spr01225.bmp</FileName>
-                    </Source>
-                  </Sprite>
                   <Sprite Slot="465" Width="37" Height="14" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\spr00107.bmp</FileName>
@@ -4665,11 +4660,6 @@
                   <Sprite Slot="469" Width="145" Height="67" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
                     <Source>
                       <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\spr00118.bmp</FileName>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="471" Width="38" Height="16" ColorDepth="16" Resolution="LowRes" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\01.bmp</FileName>
                     </Source>
                   </Sprite>
                 </Sprites>
