@@ -735,7 +735,7 @@
               <Height>51</Height>
               <Width>320</Width>
               <Left>0</Left>
-              <Top>125</Top>
+              <Top>124</Top>
               <Clickable>True</Clickable>
               <Visibility>Normal</Visibility>
               <PopupYPos>0</PopupYPos>
@@ -770,7 +770,7 @@
               <Height>57</Height>
               <Width>320</Width>
               <Left>0</Left>
-              <Top>124</Top>
+              <Top>123</Top>
               <Clickable>True</Clickable>
               <Visibility>Normal</Visibility>
               <PopupYPos>13</PopupYPos>
