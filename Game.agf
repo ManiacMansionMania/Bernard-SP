@@ -2707,7 +2707,7 @@
             <BlinkingView>0</BlinkingView>
             <StartingRoom>-1</StartingRoom>
             <StartX>280</StartX>
-            <StartY>141</StartY>
+            <StartY>121</StartY>
             <UniformMovementSpeed>True</UniformMovementSpeed>
             <MovementSpeed>3</MovementSpeed>
             <MovementSpeedX>3</MovementSpeedX>
