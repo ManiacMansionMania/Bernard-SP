@@ -12185,16 +12185,16 @@
                   </Sprite>
                   <Sprite Slot="164" Width="50" Height="85" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_bath.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
                       <ImportWidth>50</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>BottomRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12213,23 +12213,38 @@
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
+                  <Sprite Slot="195" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_britney.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopRight</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Bad">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="165" Width="27" Height="101" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="165" Width="26" Height="99" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\bath_to_hall.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>101</ImportHeight>
-                      <ImportWidth>27</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportHeight>99</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12320,31 +12335,31 @@
                 <Sprites>
                   <Sprite Slot="205" Width="50" Height="85" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_storage.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
                       <ImportWidth>50</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>BottomRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                   <Sprite Slot="363" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\01.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_living_room.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>96</ImportHeight>
                       <ImportWidth>26</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12624,23 +12639,38 @@
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
+                  <Sprite Slot="194" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\living_room_to_hall.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopRight</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
                 </Sprites>
               </SpriteFolder>
               <SpriteFolder Name="Eingangsflur">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="457" Width="27" Height="97" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="457" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_front.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>97</ImportHeight>
-                      <ImportWidth>27</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12744,48 +12774,48 @@
               <SpriteFolder Name="Keller">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="472" Width="44" Height="76" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="472" Width="44" Height="77" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Kevin\Pictures\assets\cellar_door.png</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\basement_1_to_2.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>76</ImportHeight>
+                      <ImportHeight>77</ImportHeight>
                       <ImportWidth>44</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>BottomRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="473" Width="24" Height="108" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="473" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\basement_2_to_1.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>108</ImportHeight>
-                      <ImportWidth>24</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
-                      <Frame>0</Frame>
-                      <RemapToGamePalette>False</RemapToGamePalette>
-                      <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
-                      <ImportAlphaChannel>False</ImportAlphaChannel>
-                    </Source>
-                  </Sprite>
-                  <Sprite Slot="481" Width="21" Height="85" ColorDepth="16" Resolution="Real" AlphaChannel="False">
-                    <Source>
-                      <FileName>C:\Benard Haus\Tür00.bmp</FileName>
-                      <OffsetX>0</OffsetX>
-                      <OffsetY>0</OffsetY>
-                      <ImportHeight>85</ImportHeight>
-                      <ImportWidth>21</ImportWidth>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>BottomRight</ImportMethod>
+                      <ImportAlphaChannel>False</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                  <Sprite Slot="481" Width="40" Height="88" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\metal_closet.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>88</ImportHeight>
+                      <ImportWidth>40</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12891,16 +12921,16 @@
                 <Sprites>
                   <Sprite Slot="160" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\britney_to_hall.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>96</ImportHeight>
                       <ImportWidth>26</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12922,6 +12952,26 @@
                       <RemapToRoomPalette>False</RemapToRoomPalette>
                       <ImportMethod>LeaveAsIs</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
+                    </Source>
+                  </Sprite>
+                </Sprites>
+              </SpriteFolder>
+              <SpriteFolder Name="Abstellkammer">
+                <SubFolders />
+                <Sprites>
+                  <Sprite Slot="196" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                    <Source>
+                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\storage_to_hall.png</FileName>
+                      <OffsetX>0</OffsetX>
+                      <OffsetY>0</OffsetY>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
+                      <Frame>0</Frame>
+                      <RemapToGamePalette>False</RemapToGamePalette>
+                      <RemapToRoomPalette>False</RemapToRoomPalette>
+                      <ImportMethod>TopRight</ImportMethod>
+                      <ImportAlphaChannel>True</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                 </Sprites>
