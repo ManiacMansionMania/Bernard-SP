@@ -12363,18 +12363,18 @@
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="401" Width="27" Height="97" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="401" Width="26" Height="96" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\02.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>97</ImportHeight>
-                      <ImportWidth>27</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportHeight>96</ImportHeight>
+                      <ImportWidth>26</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
