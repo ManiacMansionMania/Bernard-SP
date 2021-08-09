@@ -12576,7 +12576,7 @@
                 <Sprites>
                   <Sprite Slot="402" Width="35" Height="20" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\Neuer Ordner\spr00656.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>20</ImportHeight>
@@ -12585,13 +12585,13 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                   <Sprite Slot="403" Width="40" Height="43" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\Neuer Ordner\spr00097.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>43</ImportHeight>
@@ -12600,13 +12600,13 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                   <Sprite Slot="404" Width="29" Height="26" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\Neuer Ordner\spr00098.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>26</ImportHeight>
@@ -12615,37 +12615,37 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                   <Sprite Slot="456" Width="24" Height="8" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>8</ImportHeight>
                       <ImportWidth>24</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
                   <Sprite Slot="449" Width="59" Height="87" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>87</ImportHeight>
                       <ImportWidth>59</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
