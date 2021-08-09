@@ -11985,7 +11985,7 @@
                 <Sprites>
                   <Sprite Slot="31" Width="37" Height="12" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Dokumente und Einstellungen\Ronni.RONNI-\Eigene Dateien\SP Bernard\Räume\Neuer Ordner\spr00037.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>12</ImportHeight>
@@ -11994,7 +11994,7 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12009,7 +12009,7 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12099,7 +12099,7 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12114,7 +12114,7 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
@@ -12129,7 +12129,7 @@
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>BottomLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
