@@ -12686,31 +12686,31 @@
                   </Sprite>
                   <Sprite Slot="450" Width="54" Height="16" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\0.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>16</ImportHeight>
                       <ImportWidth>54</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
-                  <Sprite Slot="451" Width="54" Height="16" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="451" Width="53" Height="16" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\01.bmp</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>16</ImportHeight>
-                      <ImportWidth>54</ImportWidth>
-                      <ImportAsTile>True</ImportAsTile>
+                      <ImportWidth>53</ImportWidth>
+                      <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>LeaveAsIs</ImportMethod>
+                      <ImportMethod>TopLeft</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
