@@ -11983,13 +11983,13 @@
               <SpriteFolder Name="Bernards Zimmer">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="31" Width="37" Height="12" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="31" Width="31" Height="11" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
                       <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>12</ImportHeight>
-                      <ImportWidth>37</ImportWidth>
+                      <ImportHeight>11</ImportHeight>
+                      <ImportWidth>31</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
