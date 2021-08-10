@@ -12365,7 +12365,7 @@
                 <Sprites>
                   <Sprite Slot="205" Width="50" Height="85" ColorDepth="16" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>C:\Users\Arex\Downloads\berthold_graphics\hall_to_storage.png</FileName>
+                      <FileName />
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
                       <ImportHeight>85</ImportHeight>
