@@ -4,7 +4,7 @@ This starterpack changes the resolution from standard 320x200 pixels to just 320
 
 ![image](https://storage.conequest.de/mmm/github/bernard_4_3.png)
 ![image](https://storage.conequest.de/mmm/github/bernard_16_9.png)
-![image](https://conequ@conequest.de/public_html/storage/mmm/github/bernard_gradients.png)
+![image](https://storageconequest.de/mmm/github/bernard_gradients.png)
 
 ### What is Maniac Mansion Mania? ###
 Maniac Mansion Mania is a fan-adventure series about bringing Maniac Mansion to an extended live and adding to the adventurous world. The series is designed as an episodic format so that every developer can contribute her or his own story to the universe of Maniac Mansion. And it is all free! All games and resources can be downloaded by everyone.
@@ -20,7 +20,7 @@ Dieses Starterpack ändert die Auflösung vom Standard 320x200 Pixel zu lediglic
 
 ![image](https://storage.conequest.de/mmm/github/bernard_4_3.png)
 ![image](https://storage.conequest.de/mmm/github/bernard_16_9.png)
-![image](https://conequ@conequest.de/public_html/storage/mmm/github/bernard_gradients.png)
+![image](https://storage.conequest.de/mmm/github/bernard_gradients.png)
 
 ### Was ist Maniac Mansion Mania? ###
 Bei Maniac Mansion Mania geht es darum, kurze Adventures in Form von Episoden einer Serie zu produzieren, die im Umfeld von Maniac Mansion spielen. Das Besondere daran ist, dass jeder kostenlos daran teilnehmen darf. Sei es um einfach nur die vorhandenen Episoden herunterzuladen und zu spielen, oder um das Maniac Mansion Mania Universum mit eigenen Episoden zu erweitern. Dabei ist es egal, ob der Protagonist nun Bernard, Razor oder gar Dr. Fred ist. 
