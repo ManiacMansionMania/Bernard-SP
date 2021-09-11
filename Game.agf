@@ -811,7 +811,7 @@
                 <Width>40</Width>
                 <Left>1</Left>
                 <Top>10</Top>
-                <ZOrder>0</ZOrder>
+                <ZOrder>1</ZOrder>
                 <ID>0</ID>
                 <Name>gMainGive</Name>
                 <Clickable>True</Clickable>
@@ -835,7 +835,7 @@
                 <Width>64</Width>
                 <Left>41</Left>
                 <Top>10</Top>
-                <ZOrder>1</ZOrder>
+                <ZOrder>2</ZOrder>
                 <ID>1</ID>
                 <Name>gMainPickup</Name>
                 <Clickable>True</Clickable>
@@ -859,7 +859,7 @@
                 <Width>40</Width>
                 <Left>105</Left>
                 <Top>10</Top>
-                <ZOrder>2</ZOrder>
+                <ZOrder>3</ZOrder>
                 <ID>2</ID>
                 <Name>gMainUse</Name>
                 <Clickable>True</Clickable>
@@ -883,7 +883,7 @@
                 <Width>40</Width>
                 <Left>1</Left>
                 <Top>26</Top>
-                <ZOrder>3</ZOrder>
+                <ZOrder>4</ZOrder>
                 <ID>3</ID>
                 <Name>gMainOpen</Name>
                 <Clickable>True</Clickable>
@@ -907,7 +907,7 @@
                 <Width>64</Width>
                 <Left>41</Left>
                 <Top>26</Top>
-                <ZOrder>4</ZOrder>
+                <ZOrder>5</ZOrder>
                 <ID>4</ID>
                 <Name>gMainLookat</Name>
                 <Clickable>True</Clickable>
@@ -931,7 +931,7 @@
                 <Width>40</Width>
                 <Left>105</Left>
                 <Top>26</Top>
-                <ZOrder>5</ZOrder>
+                <ZOrder>6</ZOrder>
                 <ID>5</ID>
                 <Name>gMainPush</Name>
                 <Clickable>True</Clickable>
@@ -955,7 +955,7 @@
                 <Width>40</Width>
                 <Left>1</Left>
                 <Top>42</Top>
-                <ZOrder>6</ZOrder>
+                <ZOrder>7</ZOrder>
                 <ID>6</ID>
                 <Name>gMainClose</Name>
                 <Clickable>True</Clickable>
@@ -979,7 +979,7 @@
                 <Width>64</Width>
                 <Left>41</Left>
                 <Top>42</Top>
-                <ZOrder>7</ZOrder>
+                <ZOrder>8</ZOrder>
                 <ID>7</ID>
                 <Name>gMainTalkto</Name>
                 <Clickable>True</Clickable>
@@ -1003,7 +1003,7 @@
                 <Width>40</Width>
                 <Left>105</Left>
                 <Top>42</Top>
-                <ZOrder>8</ZOrder>
+                <ZOrder>9</ZOrder>
                 <ID>8</ID>
                 <Name>gMainPull</Name>
                 <Clickable>True</Clickable>
@@ -1027,7 +1027,7 @@
                 <Width>14</Width>
                 <Left>146</Left>
                 <Top>10</Top>
-                <ZOrder>9</ZOrder>
+                <ZOrder>10</ZOrder>
                 <ID>9</ID>
                 <Name>gMainInvUp</Name>
                 <Clickable>True</Clickable>
@@ -1051,7 +1051,7 @@
                 <Width>14</Width>
                 <Left>146</Left>
                 <Top>34</Top>
-                <ZOrder>10</ZOrder>
+                <ZOrder>11</ZOrder>
                 <ID>10</ID>
                 <Name>gMainInvDown</Name>
                 <Clickable>True</Clickable>
@@ -1067,7 +1067,7 @@
                 <Width>165</Width>
                 <Left>162</Left>
                 <Top>10</Top>
-                <ZOrder>13</ZOrder>
+                <ZOrder>14</ZOrder>
                 <ID>11</ID>
                 <Name>gMainInventory</Name>
                 <Clickable>True</Clickable>
@@ -1091,7 +1091,7 @@
                 <Width>30</Width>
                 <Left>290</Left>
                 <Top>9</Top>
-                <ZOrder>11</ZOrder>
+                <ZOrder>12</ZOrder>
                 <ID>12</ID>
                 <Name>cc1</Name>
                 <Clickable>True</Clickable>
@@ -1115,10 +1115,34 @@
                 <Width>30</Width>
                 <Left>290</Left>
                 <Top>31</Top>
-                <ZOrder>12</ZOrder>
+                <ZOrder>13</ZOrder>
                 <ID>13</ID>
                 <Name>cc2</Name>
                 <Clickable>True</Clickable>
+                <Enabled>True</Enabled>
+                <Visible>True</Visible>
+              </GUIButton>
+              <GUIButton>
+                <OnClick />
+                <ClickAction>NoAction</ClickAction>
+                <NewModeNumber>0</NewModeNumber>
+                <ClipImage>False</ClipImage>
+                <TextAlignment>TopCenter</TextAlignment>
+                <TextColor>0</TextColor>
+                <Font>0</Font>
+                <PushedImage>0</PushedImage>
+                <MouseoverImage>0</MouseoverImage>
+                <Image>216</Image>
+                <Text xml:space="preserve">New Button</Text>
+                <Height>46</Height>
+                <Locked>False</Locked>
+                <Width>158</Width>
+                <Left>162</Left>
+                <Top>10</Top>
+                <ZOrder>0</ZOrder>
+                <ID>14</ID>
+                <Name>gMainBackground</Name>
+                <Clickable>False</Clickable>
                 <Enabled>True</Enabled>
                 <Visible>True</Visible>
               </GUIButton>
@@ -11739,6 +11763,21 @@
                   <RemapToRoomPalette>False</RemapToRoomPalette>
                   <ImportMethod>LeaveAsIs</ImportMethod>
                   <ImportAlphaChannel>False</ImportAlphaChannel>
+                </Source>
+              </Sprite>
+              <Sprite Slot="216" Width="158" Height="47" ColorDepth="16" Resolution="Real" AlphaChannel="False">
+                <Source>
+                  <FileName />
+                  <OffsetX>0</OffsetX>
+                  <OffsetY>0</OffsetY>
+                  <ImportHeight>47</ImportHeight>
+                  <ImportWidth>158</ImportWidth>
+                  <ImportAsTile>False</ImportAsTile>
+                  <Frame>0</Frame>
+                  <RemapToGamePalette>False</RemapToGamePalette>
+                  <RemapToRoomPalette>False</RemapToRoomPalette>
+                  <ImportMethod>BottomLeft</ImportMethod>
+                  <ImportAlphaChannel>True</ImportAlphaChannel>
                 </Source>
               </Sprite>
             </Sprites>
