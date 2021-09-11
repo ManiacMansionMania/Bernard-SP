@@ -1,4 +1,4 @@
-#  Maniac Mansion Mania Bernard-SP 16:9
+#  Maniac Mansion Mania Bernard-SP Gradients
 ## English ##
 This starterpack changes the resolution from standard 320x200 pixels to just 320x180 pixels omitting the obsolete black border at the top and few lines of the background graphic. This was done in order to archieve a 16:9 resolution and make it scalable to real fullscreen on modern screens.
 
