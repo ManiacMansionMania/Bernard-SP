@@ -4,7 +4,7 @@ This starterpack changes the resolution from standard 320x200 pixels to just 320
 
 ![image](https://storage.conequest.de/mmm/github/bernard_4_3.png)
 ![image](https://storage.conequest.de/mmm/github/bernard_16_9.png)
-![image](https://storageconequest.de/mmm/github/bernard_gradients.png)
+![image](https://storage.conequest.de/mmm/github/bernard_gradients.png)
 
 ### What is Maniac Mansion Mania? ###
 Maniac Mansion Mania is a fan-adventure series about bringing Maniac Mansion to an extended live and adding to the adventurous world. The series is designed as an episodic format so that every developer can contribute her or his own story to the universe of Maniac Mansion. And it is all free! All games and resources can be downloaded by everyone.
