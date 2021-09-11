@@ -4,7 +4,7 @@
   <Game>
     <Settings>
       <GameFileName>Bernard-SP</GameFileName>
-      <GameName xml:space="preserve">Bernard-Starterpack 16:9</GameName>
+      <GameName xml:space="preserve">Bernard-Starterpack Gradients</GameName>
       <UniqueID>1661847</UniqueID>
       <GUIDAsString>{471d7f94-e201-4633-a301-43145ab9f822}</GUIDAsString>
       <ColorDepth>HighColor</ColorDepth>
@@ -76,7 +76,7 @@
       <DeveloperURL />
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
-      <SaveGameFolderName xml:space="preserve">Bernard-Starterpack 169</SaveGameFolderName>
+      <SaveGameFolderName xml:space="preserve">Bernard-Starterpack Gradients</SaveGameFolderName>
       <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
       <AudioIndexer>122</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
