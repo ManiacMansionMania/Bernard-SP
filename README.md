@@ -1,4 +1,6 @@
 #  Maniac Mansion Mania Bernard-SP
+## This project has been superseded by the [Bernard Maniacweed template](https://github.com/ManiacMansionMania/Maniacweed-Bernard). This project is therefore not actively maintained anymore.
+
 ## English ##
 ### What is Maniac Mansion Mania? ###
 Maniac Mansion Mania is a fan-adventure series about bringing Maniac Mansion to an extended live and adding to the adventurous world. The series is designed as an episodic format so that every developer can contribute her or his own story to the universe of Maniac Mansion. And it is all free! All games and resources can be downloaded by everyone.
