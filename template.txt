@@ -1,0 +1,6 @@
+MMM Bernard Starterpack
+
+This starterpack provides you with the full interface inspired by Day of the Tentacle and includes the home of Bernard Bernoulli from the Maniac Mansion Mania series.
+Read midi.txt in your games root directory on how to setup MIDI support.
+
+Have fun!
