@@ -4,3 +4,5 @@ agssave.*
 *bak
 backup*
 warnings.log
+*.crm.user
+Game.agf.user
