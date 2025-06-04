@@ -35,6 +35,4 @@ import bool RemoveChangePlayer(Character *cha);
 //! veraltet (obsolete)
 import bool SetPlayerCC(Character *cha);
 //! veraltet (obsolete)
-import bool SetPlayer(int charid);
-//! veraltet (obsolete)
 import bool SetChangePlayer(Character *cha);
